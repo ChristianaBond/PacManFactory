@@ -8,12 +8,12 @@ Once a user clicks 'Start', the PacMan images will move across the screen at the
 To clear the images and start over, simply refresh the browser window.
 
 # How to Run
-To view the PacMan factory, visit <a href="christianabond.github.io/PacMan">christianabond.github.io/PacMan</a>.
+To view the PacMan factory, visit <a href="christianabond.github.io/PacManFactory">christianabond.github.io/PacManFactory</a>.
 
 To modify the files or add them to your own site, download/clone the repository. 
 
 # Roadmap of Future Improvements
-No improvments are planned.
+No improvements are planned.
 
 # Contact Info:
 Email: <a href="mailto:christianalbond@gmail.com"> christianalbond@gmail.com </a>
