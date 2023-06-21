@@ -1,4 +1,7 @@
 # PacMan Factory
+<img src="PacMan.png" width='300' />
+
+# Description
 Selecting the 'Add PacMan' button initiates a div containing an image of PacMan to be inserted into the DOM at a random position.
 Once a user clicks 'Start', the PacMan images will move across the screen at their own randomly assigned velocities, changing direction when they hit screen edges. Users may stop the PacMan images with the 'Stop' button, and restart it with 'Start' button.
 
